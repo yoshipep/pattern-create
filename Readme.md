@@ -32,7 +32,7 @@ $ ./pattern-create.py -o Jv1Jv
 
 You can also
 look for memory values. The values need to be little-endian and prefixed
-with 0x (supports both 32 and 64 bit numbers):
+with 0x (supports both 32 and 64 bit length):
 
 ```
 $ ./pattern-create.py -o 0x39684238
